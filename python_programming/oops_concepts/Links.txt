@@ -1,0 +1,8 @@
+1. https://www.scaler.com/topics/python/ (Module 9 -OOPs)
+2. https://pythonnumericalmethods.berkeley.edu/notebooks/chapter07.00-Object-Oriented-Programming.html (OOPS notes)
+3. https://stackify.com/oops-concepts-in-java/
+4. https://stackify.com/oop-concept-abstraction/
+5. https://towardsdatascience.com/object-oriented-data-science-refactoring-code-5bcb4ae7ce72, 
+6. https://towardsdatascience.com/whats-the-meaning-of-single-and-double-underscores-in-python-3d27d57d6bd1,
+7. https://stackify.com/solid-design-liskov-substitution-principle/
+
