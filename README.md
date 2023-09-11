@@ -1,30 +1,18 @@
-# Data Science Learning and Projects Repository
+# Data Science Learning Journey
+
 
 Welcome to my personal Git repository for data science learning materials and projects! This repository is a collection of resources, exercises, and projects that I've been working on to expand my knowledge and skills in the field of data science.
 
 ## Repo Structure
 
-- [DataCamp Course Material](#datacamp-course-material)
-- [Projects](#projects)
-- [Python Programming](#python-programming)
-- [CheatSheets](#cheatsheets)
+- [DataCamp Course Material](learning_material/) - Contains the online course material
+- [Projects](projects/) - Contains the projects that I have completed
+- [Python Programming](python-programming/) - contains curated and self-explanatory notebooks that comprehensively cover advanced Python concepts. The availabel concepts are as follows: 
+    * OOPS
+    * Exception Handling
+- [CheatSheets](cheatsheets/) - contains the cheatsheets on various technologies in the realm of data science 
 
-
-## DataCamp Course Material
-
-The [DataCamp Course Material](data_camp/) directory contains the course material of data science track
-
-## Projects
-
-The [Projects](projects/) directory contains data science projects I've completed or am currently working on. 
-
-## Python Programming
-
-The [Python Programming](python_programming/) directory contains the notebooks explaining the advanced python concepts 
-
-## CheatSheets
-
-THe [CheatSheets](cheatsheets/) directory contains the cheatsheets on various technologies in the realm of data science 
+## Getting Started
 
 ```bash
 git clone https://github.com/Eshwarbattu/ds-learning-journey.git
