@@ -5,7 +5,7 @@ Welcome to my personal Git repository for data science learning materials and pr
 
 ## Repo Structure
 
-- [DataCamp Course Material](learning_material/) - Contains the online course material
+- [Learning Material](learning_material/) - Contains the online course material
 - [Projects](projects/) - Contains the projects that I have completed
 - [Python Programming](python-programming/) - contains curated and self-explanatory notebooks that comprehensively cover advanced Python concepts. The availabel concepts are as follows: 
     * OOPS
