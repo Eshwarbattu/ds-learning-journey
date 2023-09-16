@@ -10,6 +10,11 @@ Welcome to my personal Git repository for data science learning materials and pr
 - [Python Programming](python-programming/) - contains curated and self-explanatory notebooks that comprehensively cover advanced Python concepts. The availabel concepts are as follows: 
     * OOPS
     * Exception Handling
+    * Advanced concepts on functions
+         * Generators
+         * Closure
+         * Decorators (In Progress)
+         * Context managers (In Progress)
 - [CheatSheets](cheatsheets/) - contains the cheatsheets on various technologies in the realm of data science 
 
 ## Getting Started
